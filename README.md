@@ -1,4 +1,3 @@
-# Customer Churn Analysis Project
 
 # 🚀 Customer Churn Analysis and Prediction
 
